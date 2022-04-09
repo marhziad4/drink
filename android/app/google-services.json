@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1006796542210",
+    "project_id": "products-views",
+    "storage_bucket": "products-views.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006796542210:android:a932e0046acc00c335721b",
+        "android_client_info": {
+          "package_name": "com.example.admin_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006796542210-7i02ngtgq79mbmibqfq3mji2v16722vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR6R4-fpi8CKvuVeT9C-tHhC-UJeH_Vy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006796542210-7i02ngtgq79mbmibqfq3mji2v16722vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006796542210-l0pj4ov46kmvgvlot7q6khi004dlm4kp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.youthfuttergroup.viewProducts"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006796542210:android:2eaa9583ade8d64635721b",
+        "android_client_info": {
+          "package_name": "com.youthfuttergroup.view_products"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006796542210-7i02ngtgq79mbmibqfq3mji2v16722vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR6R4-fpi8CKvuVeT9C-tHhC-UJeH_Vy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006796542210-7i02ngtgq79mbmibqfq3mji2v16722vg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006796542210-l0pj4ov46kmvgvlot7q6khi004dlm4kp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.youthfuttergroup.viewProducts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
